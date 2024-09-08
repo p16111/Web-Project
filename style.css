@@ -1,0 +1,15 @@
+body{
+    background-color:black;
+    color:white;
+}
+
+.container { 
+    text-align:center;
+    width:500px;
+    margin:auto;
+}
+
+.container p{
+    text-align:justify;
+}
+
